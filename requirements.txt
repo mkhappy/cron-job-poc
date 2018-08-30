@@ -1,0 +1,5 @@
+flask
+flask_apscheduler
+flask_restful==0.3.5
+twilio
+python-dotenv
